@@ -5,3 +5,8 @@ This project is a converter in Python, using Graphical User Interface (GUI) and 
 
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
+
+## Contact
+Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
+
+Project Link: [https://github.com/portoduque/miles-to-kilometers-calculator](https://github.com/portoduque/miles-to-kilometers-calculator)
