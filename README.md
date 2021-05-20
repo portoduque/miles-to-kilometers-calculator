@@ -10,3 +10,7 @@ This project is a converter in Python, using Graphical User Interface (GUI) and 
 Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
 
 Project Link: [https://github.com/portoduque/miles-to-kilometers-calculator](https://github.com/portoduque/miles-to-kilometers-calculator)
+
+## License
+
+Distributed under the MIT License. See [`LICENSE`](https://github.com/portoduque/miles-to-kilometers-calculator/blob/main/LICENSE) for more information.
