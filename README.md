@@ -9,7 +9,7 @@ This project is a converter in Python, using Graphical User Interface (GUI) and 
 ## Dependencies:
 
 1. Python v3.x is required.
-2. turtle module is also required.
+2. Tkinter module is also required.
 
 ## Contact
 Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
