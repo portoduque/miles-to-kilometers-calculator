@@ -1,4 +1,5 @@
-# miles-to-kilometers-calculator
+![logo](https://user-images.githubusercontent.com/37813839/119405300-671e2d00-bcb7-11eb-8b76-28cbf8165050.png)
+
  
 ## About
 This project is a converter in Python, using Graphical User Interface (GUI) and Tkinter module. The goal of this project is to convert miles to kilometers.
