@@ -8,6 +8,7 @@ This project is a converter in Python, using Graphical User Interface (GUI) and 
 * [Pyhton](https://www.python.org/downloads/)
 
 ## Usage example
+![miles-to-kilometers](https://user-images.githubusercontent.com/37813839/119554069-a3fb2a00-bd72-11eb-97e9-f91a5fa44d5b.gif)
 
 ## Dependencies:
 
