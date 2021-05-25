@@ -7,6 +7,8 @@ This project is a converter in Python, using Graphical User Interface (GUI) and 
 ## Built With
 * [Pyhton](https://www.python.org/downloads/)
 
+## Usage example
+
 ## Dependencies:
 
 1. Python v3.x is required.
